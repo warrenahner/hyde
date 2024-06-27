@@ -1,0 +1,2 @@
+# hyde
+jekyll scratch pad
